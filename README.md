@@ -38,7 +38,7 @@
 2)Additional feature file (Find a Retailer Demo for Parallel Run) has been created with the same scenarios </br>
 just to demonstrate parallel run. </br>
 
-3)Fifth scenario in the Hotel Booking Demo For Parallel Run.feature has been provided with invalid data </br>
+3)Fifth scenario in the Find a Retailer Demo for Parallel Run.feature has been provided with invalid data </br>
 to make the test fail purposely to demonstrate that the failing scenarios embed screenshots in the </br>
 test report </br>
 
